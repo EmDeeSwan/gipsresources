@@ -1,0 +1,6 @@
+---
+aliases: ""
+tags: []
+---
+# SUPPLEMENTAL INFORMATION
+Any [[PERFORMANCE-RELATED INFORMATION]] included as part of a [[GIPS COMPOSITE REPORT]] or [[GIPS POOLED FUND REPORT]] that supplements or enhances the [[REQUIRE (REQUIREMENT)|REQUIREMENTS]] and/or [[RECOMMEND (RECOMMENDATION)|RECOMMENDATIONS]] of the GIPS standards.

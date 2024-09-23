@@ -1,0 +1,8 @@
+---
+aliases:
+  - TVPI
+  - INVESTMENT MULTIPLE
+tags: []
+---
+# TVPI (INVESTMENT MULTIPLE)
+[[TOTAL VALUE]] divided by [[SINCE-INCEPTION]] [[PAID-IN CAPITAL]].
