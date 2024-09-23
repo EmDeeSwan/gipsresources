@@ -1,8 +1,0 @@
----
-aliases:
-  - RVPI
-  - UNREALIZED MULTIPLE
-tags: []
----
-# RVPI (UNREALIZED MULTIPLE)
-[[RESIDUAL VALUE]] divided by [[SINCE-INCEPTION]] [[PAID-IN CAPITAL]].
