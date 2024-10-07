@@ -7,4 +7,4 @@ aliases:
 tags: []
 ---
 # REQUIRE (REQUIREMENT)
-A provision, task, or action that [[MUST]] be followed or performed.
+A provision, task, or action that MUST be followed or performed.

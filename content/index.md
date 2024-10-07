@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: GIPS Resources
 ---
-Test push 10/4/2024 v2
+[[0. Introduction|GIPS Handbook Introduction]]
+[[GIPS Conferences ToC|GIPS Conferences Table of Contents]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

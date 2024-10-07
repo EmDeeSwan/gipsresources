@@ -1,7 +1,6 @@
 ---
-aliases:
-  - LINKS
-tags: []
+aliases: []
+tags:
 ---
 # LINK
 The method by which sub-period returns are geometrically combined to calculate the period return, or by which periodic returns are geometrically combined to calculate longer-period returns, using the following formula:
