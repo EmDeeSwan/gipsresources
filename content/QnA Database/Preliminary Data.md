@@ -1,10 +1,9 @@
-Tags:
-Links: 
+Links: [[1.A.20]], [[2.A.21]], [[4.C.41]], [[5.C.39]], [[6.C.32]]
 Status: Current
 Organization Type: Firm
 Effective: 1 March, 2022
 Categories: [[GIPS REPORT]]
-Source: [[GIPS Standards Technical Committee]]
+Source: GIPS Standards Technical Committee
 ___
 # Preliminary Data
 ## Question

@@ -13,7 +13,7 @@ ___
 - methodologies should be consistent across funds/sectors, put it in policy manual
 - when showing [[extracted performance]], you don't need to show every piece of the performance, but it should have fair and balanced criteria of what you show
 	- so excluding, for example, a deal that is less than a year old is permissible
-- stitching performance of rep accounts could be a problem. It is [[hypothetical performance]] , and needs to follow those rules
+- stitching performance of rep accounts could be a problem. It is [[Hypothetical Performance]] , and needs to follow those rules
 - many characteristics like attribution are not performance, and wouldn't fall under the rule
 - show composite performance, show characteristics using [[representative account|rep portfolio]]
 - if a [[database]] or other forms only have one field and ask for gross, only giving gross is fine, try to give disclosures as you can
