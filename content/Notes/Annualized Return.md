@@ -2,8 +2,7 @@
 aliases: ""
 tags: []
 ---
-Tags:
-Links: 
+Links: [[4.B.2.d]]
 ___
 # Annualized Return
 ## Definition

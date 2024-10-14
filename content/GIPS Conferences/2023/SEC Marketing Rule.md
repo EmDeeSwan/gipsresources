@@ -1,5 +1,4 @@
-Tags: 
-Links: 
+Links: [[2.A.31]]
 ___
 # SEC Marketing Rule
 ## Personal Notes

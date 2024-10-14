@@ -3,9 +3,6 @@ aliases:
   - COMPONENT RETURN
 tags: []
 ---
-Tags:
-Links: 
-___
 # COMPONENT RETURNS
 ## Definition
 Component returns separate the total return into a [[CAPITAL RETURN]] and an [[INCOME RETURN]] for [[REAL ESTATE]] [[COMPOSITE|COMPOSITES]], [[REAL ESTATE]] [[POOLED FUND|POOLED FUNDS]], or [[BENCHMARK|BENCHMARKS]]. Component returns provide additional information to prospective clients regarding the sources of the total return and the nature of the investment strategy.
@@ -26,7 +23,10 @@ Component returns separate the total return into a [[CAPITAL RETURN]] and an [[I
 	- _j_ = the number of external cash flows (1, 2, 3, . . . , J) in period _t_
 	- _CF<sub>j,t</sub>_ = the value of cash flow _j_ in period _t_
 	- _W<sub>j,t</sub>_ = the weight of cash flow _j_ in period _t_ (assuming the cash flow occurred at the end of the day) as calculated according to the following formula:
-	  ![](https://www.gipsstandards.org/wp-content/themes/gips/pdf_img/for_asset_owners/22.A.21.33.png)where
+	  
+	  ![](https://www.gipsstandards.org/wp-content/themes/gips/pdf_img/for_asset_owners/22.A.21.33.png)
+	  
+	  where
 	  _W<sub>j,t</sub>_ = the weight of cash flow _j_ in period _t_, assuming the cash flow occurred at the end of the day _D<sub>t</sub>_ = the total number of calendar days in period _tD<sub>j,t</sub>_ = the number of calendar days from the beginning of period _t_ to cash flow _j_
 
 Acquisition, disposition, and financing services performed by the firm, an affiliate of the firm, or a third party on a particular transaction are considered transaction costs and must be deducted from both gross-of-fees and net-of-fees returns. These items (also referred to as “brokerage expenses”) are direct costs incurred upon implementation of a particular investment transaction and are considered transaction costs. It is recommended that these transaction costs be accounted for through the capital returns. Please note that the acquisition and disposition transaction costs described earlier are different from investment management fees specifically associated with acquisition and disposition services performed by the firm. It is common practice in the real estate industry to have investment management agreements separate the investment management fee into one or more of the following components: base investment management, acquisition, disposition, and financing. In this scenario, the fees specifically relating to acquisition and disposition are typically considered to be part of the investment management fee because these relate to the investment management responsibilities performed by the firm in formulating its investment decisions as part of the normal investment decision-making process. Financing fees, if applicable, are typically identified separately in the investment management agreement and are classified as transaction costs because they are usually related to post-acquisition refinancing.

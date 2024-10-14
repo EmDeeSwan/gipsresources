@@ -1,4 +1,3 @@
-Tags: 
 Links: 
 ___
 # Developing a Database Strategy

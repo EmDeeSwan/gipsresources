@@ -11,8 +11,10 @@ The fund's general availability can be misleading when comparing them to a "Broa
 When considering limited pools of investors, such as investors with retirement accounts, who has the investment discretion is the determining factor. If the individual investors are choosing funds for their retirement accounts, then it would be a [[BROAD DISTRIBUTION POOLED FUND]]. If the fund is being marketed with a [[One-On-One Presentation]] to the plan sponsor who make investment decisions on behalf of the beneficiaries, then it would be considered a [[LIMITED DISTRIBUTION POOLED FUND]].
 
 %%
-### Case Study on Common Trust Funds (CTFs)
+### Case Study on a Firm's Common Trust Funds (CTFs)
 The Common Trust Funds (CTFs) being managed are only available through qualified retirement plans that are subject to ERISA. They are not available in non-qualified retirement plans, like deferred compensation plans. An investor would have to be employed by a company that offers a qualified plan with CTFs in the line up in order to have access to it.
+
+The Firm's GIPS Team was not able to determine how these CTFs were marketed and who made the decision to invest. Because the LDPF has the stricter requirement, that a [[GIPS POOLED FUND REPORT]] must be provided, the Firm took the conservative approach in classifying them as LDPFs. 
 %%
 
 ## Sources
