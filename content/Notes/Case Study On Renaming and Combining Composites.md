@@ -3,6 +3,26 @@ ___
 # Case Study On Renaming and Combining Composites
 
 > [!INFO]- The Original Bond Composite Definitions
+> 
+> > [!INFO]- US Total Return Bond Composite Definition
+> > 
+> > Text
+> > **Benchmark:** Bloomberg Barclays US Aggregate Bond Index
+> > 
+> > **General Portfolio Characteristics**
+> > - Bullets
+> 
+> > [!INFO]- US Core Plus Bond Composite Definition
+> > 
+> > Text
+> > **Benchmarks:**
+> > - Barclays US Aggregate Bond Index
+> > - Barclays US Universal Index
+> > 
+> > **General Portfolio Characteristics**
+> > - Bullets
+
+> [!INFO]- The Original Bond Composite Definitions
 > > [!INFO]- US Total Return Bond Composite Definition
 > > The US Total Return Bond Composite is a diversified bond strategy that seeks to maximize total return via a combination of income and capital appreciation. It invests primarily in US intermediate-term bonds, but can also invest outside of the benchmark in below investment-grade, emerging markets, and nondollar debt (hedged and unhedged).
 > > **Benchmark:** Bloomberg Barclays US Aggregate Bond Index
