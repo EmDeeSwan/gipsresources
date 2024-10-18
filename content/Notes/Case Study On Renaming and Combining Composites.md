@@ -2,58 +2,40 @@ Links: [[3.A.2]], [[3.A.5]], [[3.A.5 Definition Guiding Principles]], [[3.A.6]]
 ___
 # Case Study On Renaming and Combining Composites
 
-> [!INFO]- The Original Bond Composite Definitions
+> [!INFO]- US Total Return Bond Composite Definition
 > 
-> > [!INFO]- US Total Return Bond Composite Definition
-> > 
-> > Text
-> > **Benchmark:** Bloomberg Barclays US Aggregate Bond Index
-> > 
-> > **General Portfolio Characteristics**
-> > - Bullets
+> The US Total Return Bond Composite is a diversified bond strategy that seeks to maximize total return via a combination of income and capital appreciation. It invests primarily in US intermediate-term bonds, but can also invest outside of the benchmark in below investment-grade, emerging markets, and nondollar debt (hedged and unhedged).
+> **Benchmark:** Bloomberg Barclays US Aggregate Bond Index
 > 
-> > [!INFO]- US Core Plus Bond Composite Definition
-> > 
-> > Text
-> > **Benchmarks:**
-> > - Barclays US Aggregate Bond Index
-> > - Barclays US Universal Index
-> > 
-> > **General Portfolio Characteristics**
-> > - Bullets
+> **General Portfolio Characteristics**
+> - Features flexible investment guidelines and a larger tracking error budget to more efficiently allocate risk and optimize returns in different markets environments
+> - Up to 35% of assets can be rated below investment grade
+> - Although focused on US issuers, up to 20% of the portfolio can consist of nondollar bonds and currencies
+> - Duration is generally managed within +/- 50% of the benchmark
+> - The strategy utilizes on a regular basis a variety of derivative instruments such as, but not limited to, currency forwards, fixed income futures, interest rate swaps, credit default swaps, credit default swaps, synthetic indices, and options on all mentioned instruments, primarily to hedge certain market risks associated with the strategy's objective, to express directional opportunities on specific markets and to facilitate liquidity management
 
-> [!INFO]- The Original Bond Composite Definitions
-> > [!INFO]- US Total Return Bond Composite Definition
-> > The US Total Return Bond Composite is a diversified bond strategy that seeks to maximize total return via a combination of income and capital appreciation. It invests primarily in US intermediate-term bonds, but can also invest outside of the benchmark in below investment-grade, emerging markets, and nondollar debt (hedged and unhedged).
-> > **Benchmark:** Bloomberg Barclays US Aggregate Bond Index
-> > 
-> > **General Portfolio Characteristics**
-> > - Features flexible investment guidelines and a larger tracking error budget to more efficiently allocate risk and optimize returns in different markets environments
-> > - Up to 35% of assets can be rated below investment grade
-> > - Although focused on US issuers, up to 20% of the portfolio can consist of nondollar bonds and currencies
-> > - Duration is generally managed within +/- 50% of the benchmark
-> > - The strategy utilizes on a regular basis a variety of derivative instruments such as, but not limited to, currency forwards, fixed income futures, interest rate swaps, credit default swaps, credit default swaps, synthetic indices, and options on all mentioned instruments, primarily to hedge certain market risks associated with the strategy's objective, to express directional opportunities on specific markets and to facilitate liquidity management
+> [!INFO]- US Core Plus Bond Composite Definition
 > 
-> > [!INFO]- US Core Plus Bond Composite Definition
-> > The US Core Plus Bond Composite seeks current income and capital appreciation primarily through investment in sectors and securities within the Barclays US Aggregate Bond Index. The strategy may also invest in high yield, emerging markets, and non-dollar bonds (hedged and unhedged).
-> > **Benchmarks:**
-> > - Barclays US Aggregate Bond Index
-> > - Barclays US Universal Index
-> > 
-> > **General Portfolio Characteristics**
-> > - Seeks value by integrating non-index sectors and securities, including measured exposure to high yield, non-dollar (hedged and unhedged) and emerging market debt, typically up to 35%
-> > - Duration is generally managed within +/- 20% of the index, but the strategy provides latitude to exceed this tolerance when market conditions warrant
-> > - The strategy utilizes on a regular basis a variety of derivative instruments such as, but not limited to, currency forwards, fixed income futures, interest rate swaps, credit default swaps, credit default swaps, synthetic indices, and options on all mentioned instruments, primarily to hedge certain market risks associated with the strategy's objective, to express directional opportunities on specific markets and to facilitate liquidity management
+> The US Core Plus Bond Composite seeks current income and capital appreciation primarily through investment in sectors and securities within the Barclays US Aggregate Bond Index. The strategy may also invest in high yield, emerging markets, and non-dollar bonds (hedged and unhedged).
+> **Benchmarks:**
+> - Barclays US Aggregate Bond Index
+> - Barclays US Universal Index
 > 
-> > [!INFO]- US Core Bond Composite Definition
-> > The US Core Bond Composite seeks current income and capital appreciation primarily through investment in sectors and securities within the Barclays US Aggregate Bond Index. The strategy may also invest in high yield and non-dollar bonds (hedged and unhedged). *Formerly known as US Core Plus Limited.*
-> > **Benchmark:** Barclays Capital US Aggregate Bond Index
-> > 
-> > **General Portfolio Characteristics**
-> > - Seeks value by integrating non-index sectors and securities, including measured exposure to high yield, non-dollar (hedged and unhedged) and emerging market debt
-> > - Potential exposure to high yield, foreign bonds (hedged or unhedged), emerging markets, and/or preferred stock and convertible bonds
-> > - Duration is generally managed within +/- 20% of the index, but the strategy provides latitude to exceed this tolerance when market conditions warrant
-> > - The strategy utilizes on a regular basis a variety of derivative instruments such as, but not limited to, currency forwards, fixed income futures, interest rate swaps, credit default swaps, credit default swaps, synthetic indices, and options on all mentioned instruments, primarily to hedge certain market risks associated with the strategy's objective, to express directional opportunities on specific markets and to facilitate liquidity management> 
+> **General Portfolio Characteristics**
+> - Seeks value by integrating non-index sectors and securities, including measured exposure to high yield, non-dollar (hedged and unhedged) and emerging market debt, typically up to 35%
+> - Duration is generally managed within +/- 20% of the index, but the strategy provides latitude to exceed this tolerance when market conditions warrant
+> - The strategy utilizes on a regular basis a variety of derivative instruments such as, but not limited to, currency forwards, fixed income futures, interest rate swaps, credit default swaps, credit default swaps, synthetic indices, and options on all mentioned instruments, primarily to hedge certain market risks associated with the strategy's objective, to express directional opportunities on specific markets and to facilitate liquidity management
+
+> [!INFO]- US Core Bond Composite Definition
+> 
+> The US Core Bond Composite seeks current income and capital appreciation primarily through investment in sectors and securities within the Barclays US Aggregate Bond Index. The strategy may also invest in high yield and non-dollar bonds (hedged and unhedged). *Formerly known as US Core Plus Limited.*
+> **Benchmark:** Barclays Capital US Aggregate Bond Index
+> 
+> **General Portfolio Characteristics**
+> - Seeks value by integrating non-index sectors and securities, including measured exposure to high yield, non-dollar (hedged and unhedged) and emerging market debt
+> - Potential exposure to high yield, foreign bonds (hedged or unhedged), emerging markets, and/or preferred stock and convertible bonds
+> - Duration is generally managed within +/- 20% of the index, but the strategy provides latitude to exceed this tolerance when market conditions warrant
+> - The strategy utilizes on a regular basis a variety of derivative instruments such as, but not limited to, currency forwards, fixed income futures, interest rate swaps, credit default swaps, credit default swaps, synthetic indices, and options on all mentioned instruments, primarily to hedge certain market risks associated with the strategy's objective, to express directional opportunities on specific markets and to facilitate liquidity management> 
 
 ## Situation
 The Fixed Income Team and Marketing Team requested that the existing **US Total Return Bond** composite gets renamed as *US Core Plus Bond*, and that the currently existing **US Core Plus Bond** is *eliminated*. They believed the benefits of doing this were that:

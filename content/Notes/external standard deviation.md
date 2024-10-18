@@ -23,3 +23,6 @@ Firms are required to select a methodology (i.e., the use of _n_ or _n_ – 1) o
 To annualize the three-year ex post standard deviation calculated using monthly returns, the result of the foregoing standard deviation formula must be multiplied by the square root of 12.
 
 If the firm presents only gross-of-fees returns in the GIPS Composite Report, the firm should use gross-of-fees returns to calculate the external standard deviation. If a firm presents only net-of-fees returns in the GIPS Composite Report, the firm should use net-of-fees returns to calculate the external standard deviation. If the firm presents both gross-of-fees and net-of-fees returns, it is recommended that the firm use gross-of-fees returns to calculate the external standard deviation. (See Provision [[2.B.7]].) The firm must disclose which returns (gross-of-fees or net-of-fees) were used to calculate the external standard deviation. (See Provision [[4.C.44]] or Provision [[6.C.35]])
+
+## Personal Notes
+![[GIPS Help Desk 2024#Calculations#Question 3]]
