@@ -250,7 +250,7 @@ tags:
 
 > [!QUESTION]
 > 
-> If you have the situation where Real Estate accounts are each in a single account Composite, the Composites being individually defined by strategy and vintage year. Is it appropriate that those accounts can also belong to another Composite, defined by Strategy, but not vintage year – even though the accounts have different vintage years?
+> If you have the situation where Real Estate accounts are each in a single account Composite, the Composites being individually defined by strategy and [[vintage year]]. Is it appropriate that those accounts can also belong to another Composite, defined by Strategy, but not vintage year – even though the accounts have different vintage years?
 
 > [!ANSWER]
 > 
