@@ -2,7 +2,6 @@
 aliases: ""
 tags: []
 ---
-Tags:
 Links: [[8. GIPS Advertising Guidelines]]
 ___
 # Advertisement

@@ -2,8 +2,7 @@
 aliases: ""
 tags: []
 ---
-Tags:
-Links: [[STANDARD DEVIATION]] [[4.A.1.j]]
+Links: [[STANDARD DEVIATION]], [[4.A.1.j]]
 ___
 # External Standard Deviation
 ## Calculation Methods

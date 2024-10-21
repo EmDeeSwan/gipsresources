@@ -132,7 +132,8 @@ tags:
 
 > [!ANSWER]
 > 
-> You are required to check for composites up to 10 years old, because that’s the length of time presented on GIPS Reports. So there would be a large break in performance. [[3.A.9]]
+> You are required to check for composites up to 10 years old, because that’s the length of time presented on GIPS Reports. So there would be a large break in performance.
+> See also [[3.A.9]], [[GIPS Helpdesk Update 2023#^GC-Helpdesk-Bullet-5]]
 
 > [!SUMMARY] Personal Opinion
 > 

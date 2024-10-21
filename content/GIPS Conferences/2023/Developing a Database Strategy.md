@@ -1,4 +1,4 @@
-Links: 
+Links: [[GIPS Conferences ToC]]
 ___
 # Developing a Database Strategy
 ## Personal Notes

@@ -1,4 +1,4 @@
-Links: [[SEC Marketing Rule]] ,[[2.A.31]]
+Links: [[GIPS Conferences ToC]], [[SEC Marketing Rule]] ,[[2.A.31]]
 ___
 # SEC Marketing Rule Session
 ## Personal Notes
